@@ -108,7 +108,7 @@ Jianbin Zhao<sup>\*</sup>, Chaoran Feng<sup>\*</sup>, Miao Yu<sup>\*</sup>, Ying
 [[**Paper**](https://www.falcary.com/assets/files/StyleGRPO.pdf)]
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 <!-- </div>
-</div> --> -->
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP 2025</div><img src='images/characterfactory.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -129,6 +129,10 @@ Qinghe Wang, Baolu Li, **Xiaomin Li**, Bing Cao, Liqian Ma, Huchuan Lu, Xu jiaâœ
 </div>
 
 
+# ðŸ’» Internships
+- *2025.09 - now*, Tencent WeChat, China.
+- *2024.05 - 2025.08*, AMD, China.
+
 # ðŸŽ– Honors and Awards
 - *2025.12* Awarded as an Outstanding Graduate of Liaoning Province.
 - *2025.03* One paper accepted as CVPR 2025 Highlight.
@@ -144,6 +148,4 @@ Qinghe Wang, Baolu Li, **Xiaomin Li**, Bing Cao, Liqian Ma, Huchuan Lu, Xu jiaâœ
 - *2015.09 - 2019.06*, Undergraduate, Jilin University, Changchun.
 
 
-# ðŸ’» Internships
-- *2025.09 - now*, Tencent WeChat, China.
-- *2024.05 - 2025.08*, AMD, China.
+
