@@ -32,14 +32,15 @@ My current research interests primarily focus on **Video/Image Generation** and 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Findings 2026</div><img src='images/dailyclue.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Seek-and-Solve: Benchmarking MLLMs for Visual Clue-Driven Reasoning in Daily Scenarios](https://arxiv.org/abs/2412.19637)
+[Seek-and-Solve: Benchmarking MLLMs for Visual Clue-Driven Reasoning in Daily Scenarios](https://xiaominli1020.github.io/DailyClue/)
 
 **Xiaomin Li**<sup>\*</sup>, Tala Wang<sup>\*</sup>, Zichen Zhong<sup>\*</sup>, Ying Zhang, Zirui Zheng, Takashi Isobe, Dezhuang Li, Huchuan Lu, You He, Xu Jia<sup>✉</sup>
 
 <sup>\*</sup>Equal Contribution    <sup>✉</sup>Corresponding Author
 
-[[**Code**](https://github.com/LemonTwoL/ReNeg)]
-[[**Paper**](https://arxiv.org/pdf/2412.19637)]
+[[**Project Page**](https://xiaominli1020.github.io/DailyClue/)]
+[[**Code**](https://xiaominli1020.github.io/DailyClue/)]
+[[**Paper**](https://arxiv.org/abs/2604.14041)]
 </div>
 </div>
 
@@ -53,7 +54,7 @@ My current research interests primarily focus on **Video/Image Generation** and 
 <sup>\*</sup>Equal Contribution    <sup>✉</sup>Corresponding Author
 
 [[**Code**](https://github.com/LemonTwoL/ReNeg)]
-[[**Paper**](https://arxiv.org/pdf/2412.19637)]
+[[**Paper**](https://arxiv.org/abs/2604.14041)]
 </div>
 </div>
 
